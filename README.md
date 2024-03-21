@@ -34,4 +34,4 @@ Invested personal time to develop the following plugins for learning and explora
 -> Books library [Link](https://github.com/h-lakkad1998/books-library)
   Just a Gutenberg block created for a learning purpose.
   It will filter a booklist(Post type) from the taxonomies, Controls in the backend for managing posts per page and pagination type(Simple | Ajax).
-  Created only with JSX no npm lib was Used while making this block.
+  Created only with JSX no npm lib was used while making this block.
