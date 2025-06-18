@@ -27,9 +27,6 @@ Implemented multiple filters for easy product browsing based on client requireme
 
 #Plugin development: 
 Invested personal time to develop the following plugins for learning and exploration purposes. Links to the Git repo. are provided for further details. <br />
-
--> WP users filter(Adv. version) [Link](https://github.com/h-lakkad1998/wp-users-filter) <br />
-  Advance user search filter - also can filter results through user meta table. <br />
   
 -> Books library [Link](https://github.com/h-lakkad1998/books-library) <br />
   Just a Gutenberg block created for a learning purpose. <br />
