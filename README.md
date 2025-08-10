@@ -25,6 +25,13 @@ Developed a custom plugin to generate contact vCards on individual member pages.
 WooCommerce theme from scratch: Allows for customisation and specific functionalities. <br />
 Implemented multiple filters for easy product browsing based on client requirements. <br />
 
+#ZealousWeb Technologies - [https://www.zealousweb.com/](https://www.zealousweb.com/) <br />
+Built entirely using the WordPress REST API <br />
+Integrated all the contact forms with the Gravity Forms REST API <br />
+Includes extensive customizations <br />
+Designed for a highly user-friendly experience <br />
+
+
 #Plugin development: 
 Invested personal time to develop the following plugins for learning and exploration purposes. Links to the Git repo. are provided for further details. <br />
   
