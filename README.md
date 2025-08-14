@@ -35,7 +35,16 @@ Designed for a highly user-friendly experience <br />
 #Plugin development: 
 Invested personal time to develop the following plugins for learning and exploration purposes. Links to the Git repo. are provided for further details. <br />
   
--> Books library [Link](https://github.com/h-lakkad1998/books-library) <br />
+Books library [Link](https://github.com/h-lakkad1998/books-library) <br />
   Just a Gutenberg block created for a learning purpose. <br />
   It will filter a booklist(Post type) from the taxonomies, Controls in the backend for managing posts per page and pagination type(Simple | Ajax).
   <br /> Created only with JSX no npm lib was used while making this block.
+
+#Web Automation:
+
+1) Using PlayWright:
+https://github.com/h-lakkad1998/qa-portfolio
+
+2) Using TagUi:
+https://blog.yudiz.com/how-to-get-started-with-tagui/
+
