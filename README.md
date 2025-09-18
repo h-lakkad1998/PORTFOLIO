@@ -1,7 +1,7 @@
 # PORTFOLIO
 This is the list of projects/plugins dev. that I have worked on. It is just a readme file. I've updated everything in this file. Among the numerous projects I've undertaken, these stand out as the most exceptional based on my expertise. <br />
 <br /> 
-#Job Advisor - [https://www.job-advisor.ae/](https://www.job-advisor.ae/)  <br />
+#Job Advisor  <br />
 Job search engine: Connects job seekers with opportunities and allows companies to find qualified candidates. <br />
 High-traffic website hosted on Amazon Web Services (AWS). <br />
 Offers multiple filters for refining the candidate search. <br />
