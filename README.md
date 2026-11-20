@@ -17,7 +17,7 @@ Developed and published All Users Filter, a WordPress.org plugin that enhances u
 Implemented optimized user-query handling and an intuitive admin interface, with performance testing against large datasets containing 80,000+ WordPress users. <br />
 Focused on scalable architecture, efficient data processing, and maintainable WordPress coding standards to deliver a reliable user-management solution. <br />
 
-#Ai Assited vulnerabilities audit - [https://www.wordfence.com/threat-intel/vulnerabilities/researchers/bhayanak-atma](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/bhayanak-atma)
+#Ai Assisted vulnerabilities audit - [https://www.wordfence.com/threat-intel/vulnerabilities/researchers/bhayanak-atma](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/bhayanak-atma)
 Published 6 WordPress security vulnerability disclosures through Wordfence Threat Intelligence under the researcher profile. <br />
 Conducted vulnerability research, security auditing, and exploit analysis to identify weaknesses in WordPress plugins and uncover potential attack vectors. <br />
 Contributed to the WordPress security ecosystem through responsible vulnerability disclosure, helping plugin developers address security flaws and protect users from potential exploitation. <br />
