@@ -1,11 +1,26 @@
 # PORTFOLIO
 This is the list of projects/plugins dev. that I have worked on. It is just a readme file. I've updated everything in this file. Among the numerous projects I've undertaken, these stand out as the most exceptional based on my expertise. <br />
 <br /> 
-#Job Advisor  <br />
-Job search engine: Connects job seekers with opportunities and allows companies to find qualified candidates. <br />
-High-traffic website hosted on Amazon Web Services (AWS). <br />
-Offers multiple filters for refining the candidate search. <br />
-Includes user and payment modules <br />
+
+#MilesWeb-cross-contamination - [https://github.com/h-lakkad1998/MilesWeb-cross-contamination](https://github.com/h-lakkad1998/MilesWeb-cross-contamination) <br />
+Investigated and documented a suspected server-wide WordPress malware cross-contamination incident involving persistent SC Implant (SCV 5.1.2) payloads residing in Linux System V Shared Memory (SysV SHM). <br />
+Conducted Linux-level forensic analysis using ipcs, ftok(), and shmat() to extract malware from kernel memory and identify potential cross-account exposure across multiple cPanel tenants. <br />
+Compiled technical evidence, infection indicators, persistence mechanisms, and actionable server-hardening recommendations covering CageFS isolation, IPC security, PHP extensions, and malware detection. <br />
+
+#Antidote for continous malware protection - [https://github.com/h-lakkad1998/000-guardian-malware-nuke/blob/main/000-guardian-malware-nuke.php](https://github.com/h-lakkad1998/000-guardian-malware-nuke/blob/main/000-guardian-malware-nuke.php) <br />
+Developed 000-Ultimate-Incident-Guard, a custom WordPress MU-plugin designed to detect, neutralize, and prevent persistent malware reinfection (SCV 4.5.7 campaign). <br />
+Implemented automated detection and cleanup of malicious WP-Cron hooks, rogue admin accounts, database injections, backdoors, suspicious files, and obfuscated PHP payloads. <br />
+Built proactive security monitoring with persistence prevention, C2 endpoint blocking, file-integrity checks, and grouped email alerts to strengthen WordPress incident response. <br />
+
+#All Users Filter - [https://wordpress.org/plugins/all-users-filter/](https://wordpress.org/plugins/all-users-filter/)
+Developed and published All Users Filter, a WordPress.org plugin that enhances user management with advanced filtering, sorting, and export capabilities. <br />
+Implemented optimized user-query handling and an intuitive admin interface, with performance testing against large datasets containing 80,000+ WordPress users. <br />
+Focused on scalable architecture, efficient data processing, and maintainable WordPress coding standards to deliver a reliable user-management solution. <br />
+
+#Ai Assited vulnerabilities audit - [https://www.wordfence.com/threat-intel/vulnerabilities/researchers/bhayanak-atma](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/bhayanak-atma)
+Published 6 WordPress security vulnerability disclosures through Wordfence Threat Intelligence under the researcher profile. <br />
+Conducted vulnerability research, security auditing, and exploit analysis to identify weaknesses in WordPress plugins and uncover potential attack vectors. <br />
+Contributed to the WordPress security ecosystem through responsible vulnerability disclosure, helping plugin developers address security flaws and protect users from potential exploitation. <br />
 
 #Tuintotaaloldenzaal - [https://shop.tuintotaaloldenzaal.nl/](https://shop.tuintotaaloldenzaal.nl/) <br />
 WooCommerce website: Delivers flower bouquets. <br />
